@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+body{
+    margin: 0%;
+    font-family: 'Playfair Display', serif;
+}
+header{
+    background-color: rgb(253, 165, 0);
+    padding-top: 1em;
+    padding-bottom: 1em;
+    width: 100%;
+    height: 4em;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+div{
+    padding: 1.5em;
+    margin: 1.5em;
+    
+    
+}
+.nome{
+    font-size: 1.3em;
+}
+.preco{
+    color: rgb(13, 173, 13);
+}
+.produtos{
+    float: left;
+    width: 10em;
+    }

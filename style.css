@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Architects+Daughter&display=swap');
+body{
+    margin: 0%;
+}
+
+header{
+    background-color: rgb(253, 165, 0);
+    width: 100%;
+    height: 3em;
+}
+
+ul{
+    align-items: center ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 0%;
+    margin-right: 5%;
+    list-style-type: none;
+}
+.imagens:hover{
+    cursor: pointer;
+}
+
+.logos{
+    width: 40px;
+}
+
+#tituloum{
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 0.5px;
+}
+
+#selecao{
+    display: flex;
+    flex-direction: column;
+   
+    
+}
+
+.imagens{
+    width: 3em;
+    float: left;
+    
+}
+
+#trocarimg{
+    display: flex;
+    margin: auto;
+    width: 15em;
+    
+}
+
+footer{
+    background-color: rgb(253, 165, 0);
+    width: 100%;
+    height: 2.5em;  
+    text-align: center;
+    position: absolute;
+}
+
